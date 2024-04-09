@@ -1,0 +1,35 @@
+body {
+    background-color: teal;
+  }
+h1 {
+  color: orange;
+  font-family: sans-serif;
+}
+
+p {
+  color: chocolate;
+  font-family: cursive;
+}
+
+li {
+  color: violet;
+  font-size: 0.5px;
+}
+
+
+label {
+  position: relative;
+  display: inline-block;
+}
+
+.invalid-data {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  color: rebeccapurple;
+  font-size: 0.8em;
+}
+
+.delete-form {
+  display: inline-block;
+}
