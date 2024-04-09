@@ -1,2 +1,1 @@
-<p>laikam nebūs</p>
-<p>skill issue</p>
+<p>Something went wrong</p>

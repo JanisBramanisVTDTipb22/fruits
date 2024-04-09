@@ -2,7 +2,7 @@
 require "views/components/head.php";
 require "views/components/navbar.php";
 ?>
-    <h1> Edit a Post </h1>
+    <h1> Edit a Fruit </h1>
     <form method="POST">
         <input name="id" value="<?= $post["id"] ?>" type="hidden"/>
         <label>Title:
